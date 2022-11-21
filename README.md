@@ -1,3 +1,1 @@
-0x11. C - printf
-
-Authors Blessing Fawole | Joseph Carlis Coleman
+printf _printf is a custom implementation of the C programming function printf. This project is an application of the C programming that students have learned since starting the program on Nov 18, 2022 6:00 AM
